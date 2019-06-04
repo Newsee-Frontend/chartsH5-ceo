@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f637f7e0-e192-442a-abce-70ba5689951b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-elementUI.c6cfeb79.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-elementUI.c6cfeb79.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-libs.3bfa8f9c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-libs.3bfa8f9c.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.64699e95.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.64699e95.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.6f0a763.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/null.6656332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-elementUI.702a6ce4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-libs.c7173184.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-libs.c7173184.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.8648626e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.8648626e.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +18,11 @@
     <leaf>
       <file leaf-file-name="main.8648626e.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/main.8648626e.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret column="2875" lean-forward="true" selection-start-column="2875" selection-end-column="2875" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -50,9 +40,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="398" />
-    <option name="y" value="128" />
-    <option name="width" value="1430" />
+    <option name="x" value="617" />
+    <option name="y" value="151" />
+    <option name="width" value="1031" />
     <option name="height" value="922" />
   </component>
   <component name="ProjectView">
@@ -108,15 +98,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559622278390</updated>
-      <workItem from="1559622279656" duration="144000" />
+      <workItem from="1559622279656" duration="539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144000" />
+    <option name="totallyTimeSpent" value="539000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="398" y="128" width="1430" height="922" extended-state="0" />
+    <frame x="398" y="128" width="1430" height="922" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982257" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -145,7 +136,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/main.8648626e.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret column="2875" lean-forward="true" selection-start-column="2875" selection-end-column="2875" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
